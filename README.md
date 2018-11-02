@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans,
+
+kmaisuri here, I'm learning to use GitHub and so far its fun!
